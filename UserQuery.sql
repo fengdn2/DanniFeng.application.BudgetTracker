@@ -1,0 +1,23 @@
+USE [DanniFeng.App.BudgetTrackerDb]
+GO
+SET IDENTITY_INSERT [dbo].[User] ON 
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (1, N'a@gmail.com', N'aA12345678', N'aName',CAST(N'1990-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (2, N'b@gmail.com', N'bA12345678', N'bName',CAST(N'1991-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (3, N'c@gmail.com', N'cA12345678', N'cName',CAST(N'1992-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (4, N'd@gmail.com', N'dA12345678', N'dName',CAST(N'1993-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (5, N'e@gmail.com', N'eA12345678', N'eName',CAST(N'1994-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (6, N'f@gmail.com', N'fA12345678', N'fName',CAST(N'1995-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (7, N'a7@gmail.com', N'7aA12345678', N'7aName',CAST(N'1997-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (8, N'a8@gmail.com', N'8aA12345678', N'8aName',CAST(N'1998-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (9, N'a9@gmail.com', N'9aA12345678', N'9aName',CAST(N'1999-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (10, N'a10@gmail.com', N'10aA12345678', N'10aName',CAST(N'2000-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (11, N'a11@gmail.com', N'11aA12345678', N'11aName',CAST(N'2001-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (12, N'12a@gmail.com', N'12aA12345678', N'12aName',CAST(N'2002-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (13, N'13a@gmail.com', N'13aA12345678', N'13aName',CAST(N'2003-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (14, N'a14@gmail.com', N'14aA12345678', N'14aName',CAST(N'2004-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (15, N'a15@gmail.com', N'15aA12345678', N'15aName',CAST(N'2005-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (16, N'a16@gmail.com', N'16aA12345678', N'16aName',CAST(N'2006-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (17, N'17a@gmail.com', N'17aA12345678', N'17aName',CAST(N'2007-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (18, N'18a@gmail.com', N'18aA12345678', N'18aName',CAST(N'2008-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (19, N'19@gmail.com', N'19aA12345678', N'19aName',CAST(N'2009-11-11T00:00:00.0000000' AS DateTime2))
+INSERT [dbo].[Users] ([Id], [Email], [Password], [Fullname], [JoinedOn]) VALUES (20, N'20a@gmail.com', N'20aA12345678', N'20aName',CAST(N'2010-11-11T00:00:00.0000000' AS DateTime2))
